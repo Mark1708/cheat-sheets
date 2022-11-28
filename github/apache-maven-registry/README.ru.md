@@ -1,5 +1,5 @@
 # Apache Maven registry
-### [English version](github/apache-maven-registry/README.md)
+### [English version](https://github.com/Mark1708/cheat-sheets/blob/main/github/apache-maven-registry/README.md)
 ### [Репозиторий проекта](https://github.com/Mark1708/github-maven-package-example)
 
 Вы можете настроить Apache Maven для публикации пакетов в GitHub Packages  и их использование в качестве зависимостей в проекте Java.
