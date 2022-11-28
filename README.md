@@ -14,6 +14,7 @@ Here you'll find code-snippets, technical documentation, and command reference f
 
 ## Other Resources
 -   [Boilerplates](https://github.com/Mark1708/boilerplates) - Templates for various projects
+-   [Habr](https://habr.com/ru/users/Mark1708/posts) - Here I sometimes write about something interesting
 
 ## Contact
 
