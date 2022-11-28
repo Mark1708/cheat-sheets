@@ -194,7 +194,7 @@ Edit the file `~/.m2/settings.xml ` to prove to Github the seriousness of their 
 </settings>
 ```
 
-> Replace <GITHUB_USERNAME>,  <GITHUB_REPO> and <GITHUB_ACCESS_TOKEN> with real data
+> Replace <GITHUB_USERNAME>,  <GITHUB_REPO> and <GITHUB_ACCESS_TOKEN> with real data</br>
 > You need an access token to `publish, install, and delete private, internal, and public packages`.
 
 ## Deploy

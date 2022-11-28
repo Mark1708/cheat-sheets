@@ -194,7 +194,7 @@ mvn clean install
 </settings>
 ```
 
-> Заменяем <GITHUB_USERNAME>,  <GITHUB_REPO> и <GITHUB_ACCESS_TOKEN>
+> Заменяем <GITHUB_USERNAME>,  <GITHUB_REPO> и <GITHUB_ACCESS_TOKEN></br>
 > Вам нужен токен доступа с правами: `publish, install, and delete private, internal, and public packages`
 
 ## Деплой
