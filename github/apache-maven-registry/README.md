@@ -1,5 +1,5 @@
 # Apache Maven registry
-### [Russian version](github/apache-maven-registry/README.ru.md)
+### [Russian version](https://github.com/Mark1708/cheat-sheets/blob/main/github/apache-maven-registry/README.ru.md)
 ### [Project repo](https://github.com/Mark1708/github-maven-package-example)
 You can configure Apache Maven to publish packages to GitHub Packages and to use packages stored on GitHub Packages as dependencies in a Java project.
 
