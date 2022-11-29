@@ -20,7 +20,7 @@ Adding this line to build
 </build
 ```
 
-And it is also interesting to install a dependency from Github Maven Registry (you can find out about it [here](https://github.com/Mark 1708/github-maven-package-example))
+And it is also interesting to install a dependency from Github Maven Registry (you can find out about it [here](https://github.com/Mark 1708/github-maven-package-example)
 ```xml
 <dependency>  
     <groupId>example.com</groupId>  
