@@ -214,6 +214,7 @@ mvn deploy
   <version>1.0-SNAPSHOT</version>  
 </dependency>
 ```
+Можете посмотреть как использовать [тут](https://github.com/Mark1708/github-docker-package-example)
 
 Если репозиторий публичный, то зависимость доступна всем!
 
