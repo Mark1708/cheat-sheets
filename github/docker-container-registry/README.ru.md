@@ -127,3 +127,4 @@ docker run -p 8080:8080 ghcr.io/<GITHUB_USERNAME>/<IMAGE_NAME>:v1.0.0
 curl http://localhost:8080/username/qwerty123
 ```
 
+### Удачи !)
