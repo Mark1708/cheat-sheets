@@ -213,6 +213,7 @@ In your repository you can find such a charm:
   <version>1.0-SNAPSHOT</version>  
 </dependency>
 ```
+You can check how use it [here](https://github.com/Mark1708/github-docker-package-example)
 
 If the repository is public, then the dependency is available to everyone!
 > But if you did it in private, then on the device where you will use this dependency, you will need to configure the same `~/.m2/settings.xml ` file.
