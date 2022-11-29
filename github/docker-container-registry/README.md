@@ -1,6 +1,6 @@
 # Container registry
 
-### [Russian version](https://github.com/Mark1708/cheat-sheets/blob/main/github/docker-container-registry/README.md)
+### [Russian version](https://github.com/Mark1708/cheat-sheets/blob/main/github/docker-container-registry/README.ru.md)
 ### [Project repo](https://github.com/Mark1708/github-docker-package-example)
 
 The Container registry stores container images within your organization or personal account, and allows you to associate an image with a repository. 
